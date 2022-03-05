@@ -3,7 +3,7 @@
 An easy aap to track your daily expenses. This app is made using Flutter .Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase. This app is compatible for both android and ios .
 
 ## Homescreen
-<img src="https://user-images.githubusercontent.com/57026722/156894500-24312192-9ac3-4a1e-a915-fbbac251dfa7.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/57026722/156894500-24312192-9ac3-4a1e-a915-fbbac251dfa7.png" width="200" height="400">
 ### Steps to go through the app
 - Initial homescreen
 ![Screenshot_1646501730](https://user-images.githubusercontent.com/57026722/156894365-b7f3f840-b737-4b35-b78e-00faaeee7781.png)
