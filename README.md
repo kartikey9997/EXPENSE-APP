@@ -4,8 +4,9 @@ An easy aap to track your daily expenses. This app is made using Flutter .Flutte
 
 ## Homescreen
 <img src="https://user-images.githubusercontent.com/57026722/156894500-24312192-9ac3-4a1e-a915-fbbac251dfa7.png" width="250" height="500">
-### Steps to go through the app
 
+### Steps to go through the app
+ 
 #### Initial homescreen
 <img src ="https://user-images.githubusercontent.com/57026722/156894365-b7f3f840-b737-4b35-b78e-00faaeee7781.png" width="250" height="500">
 
