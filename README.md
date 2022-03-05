@@ -1,6 +1,8 @@
 # Expense_App :heavy_dollar_sign::heavy_dollar_sign:
 
-An easy aap to track your daily expenses. This app is made using Flutter .Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase. This app is compatible for both android and ios .
+This is an easy aap to track your daily expenses. It is made using Flutter .Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase. This app is compatible for both android and ios .
+
+In this app you can track your daily expenses by adding them. User can add or delete the record as per it's requirement. At the top of the screen , it has one chart which shows the total expense on each day for a week. Rest all the instructions are mentioned below, please go through it once to have better understanding of the app.
 
 ## Homescreen :iphone: :iphone:
 <img src="https://user-images.githubusercontent.com/57026722/156894500-24312192-9ac3-4a1e-a915-fbbac251dfa7.png" width="250" height="500">
