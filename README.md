@@ -29,4 +29,5 @@ An easy aap to track your daily expenses. This app is made using Flutter .Flutte
 <img src ="https://user-images.githubusercontent.com/57026722/156894529-59b6319f-c6ff-4e9c-a2a1-26012e3e6ee3.png" width="250" height="500">
 
 
-## :smiley: :smiley: Thanks for watching it !!:smiley::smiley:
+## That's All :raised_hands: :raised_hands:
+### :smiley: :smiley: Thanks for watching it !!:smiley::smiley:
