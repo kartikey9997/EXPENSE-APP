@@ -25,5 +25,5 @@ An easy aap to track your daily expenses. This app is made using Flutter .Flutte
 #### A new has been created
 <img src ="https://user-images.githubusercontent.com/57026722/156894478-83ffe5f5-d40b-416d-a2f5-b35ce22ad672.png" width="250" height="500">
 
-#### Yaayy !! Finally we made it !!
+#### Yaayy :exclamation::exclamation: Finally we made it :exclamation::exclamation:
 <img src ="https://user-images.githubusercontent.com/57026722/156894529-59b6319f-c6ff-4e9c-a2a1-26012e3e6ee3.png" width="250" height="500">
